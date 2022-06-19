@@ -97,6 +97,7 @@ else
 
 
 // тоже третья задача, булево
+/*
 bool AliquotCheck(int num)
 {
     if (num % 23*7 == 0) return true;
@@ -104,3 +105,7 @@ bool AliquotCheck(int num)
     
     // return (num % 23*7 == 0);
 }
+*/
+
+
+
